@@ -1,0 +1,63 @@
+body{
+    font-family: "Sora", sans-serif;
+    color: #52525A;
+    font-size: 20px, 1.25rem;
+}
+.flex{
+    display: flex;
+}
+h1, h3{
+    color: #18181B;
+}
+h1{
+    font-size: 36px;
+}
+.c1{
+    margin: 150px 110px 0px 150px;
+}
+.star{
+    background: #fdb713;
+    border-radius: 100px;
+    height: 50px;
+    width: 50px;
+    position: relative;
+}
+.star1{
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+}
+.che{
+    margin: 5px 0px 0px 0px;
+}
+.checklist{
+    margin: 4px 010px 0px 0px;
+}
+.p1{
+    font-size: 14px;
+    margin: 14px 0px 0px 0px;
+}
+.inline{
+    margin: 150px 10px 0px 0px;
+    display: block;
+}
+.c2{
+    margin: 0px 90px 0px 250px;
+    font-size: 16px;
+}
+.google{
+    height: 30px;
+    margin: 20px 10px 0px 0px;
+}
+.c3{
+    margin: 50px 400px 0px 0px;
+    font-size: 16px;
+}
+.meta{
+    height: 30px;
+    margin: 10px 10px 0px 0px;
+}
+.p2{
+    font-size: 16px;
+}
